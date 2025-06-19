@@ -7,7 +7,7 @@
 1. GitHub:
 
    ```bash
-   
+  https://github.com/Yuliay2024/Task_ML-intern-Ifortex-2025-Edition-
    
 2. Установка зависимостей:
    
